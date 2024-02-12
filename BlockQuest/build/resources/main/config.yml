@@ -1,0 +1,11 @@
+prefix: '§6(!) '
+start_message: '{prefix} The chest named §6{name}§e has fallen to the coordinates §6{x}, {y}, {z} §ein the world of §6{world}§e. Hurry up and claim your rewards. You have to reach it within §6{minute}§e minutes.'
+found-chest: '{prefix} The chest named §6{name}§e was found by §6{player}§e. Congratulations to the player!'
+not-found-chest: '{prefix} §eThe chest named §6{name}§e was stolen by a monster.'
+no-permission: '{prefix} §cYou do not have permission for that.'
+reload: '{prefix} §cReloaded files.'
+format:
+  now: now
+  minute: minute
+  hour: hour
+  day: day

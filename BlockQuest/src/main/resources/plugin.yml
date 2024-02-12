@@ -1,0 +1,12 @@
+name: BlockQuest
+version: '${version}'
+main: com.bnjrKemal.Main
+api-version: '1.16'
+commands:
+  blockquest:
+    aliases:
+      - bq
+      - blockquest
+softdepend:
+  - PlaceholderAPI
+  - HolographicDisplays

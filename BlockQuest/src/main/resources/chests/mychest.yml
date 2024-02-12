@@ -1,0 +1,22 @@
+name: §5My Chest
+type: CHEST
+world: world
+rewards:
+  - eco give {player} 200
+  - give {player} diamond 16
+  - give {player} emerald 8
+  - give {player} diamond_sword enchant sharpness:5 1
+events:
+  - '12:00'
+  - '16:15'
+  - '13:58'
+  - '14:09'
+terminate-time: 5
+random-location:
+  X: 100
+  Z: 100
+hologram:
+  - ''
+  - '§5My Chest'
+  - ''
+hologram-highest: 2
